@@ -1,14 +1,14 @@
 {
-  "name": "radium",
-  "version": "0.19.4",
+  "name": "radium-inline-style-prefixer3",
+  "version": "0.19.5",
   "description": "A set of tools to manage inline styles on React elements",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/formidablelabs/radium.git"
+    "url": "https://github.com/omryr/radium.git"
   },
-  "homepage": "https://github.com/formidablelabs/radium",
-  "bugs": "https://github.com/formidablelabs/radium/issues",
+  "homepage": "https://github.com/omryr/radium",
+  "bugs": "https://github.com/omryr/radium/issues",
   "directories": {
     "example": "examples"
   },
