@@ -1,6 +1,6 @@
 {
   "name": "radium-inline-style-prefixer3",
-  "version": "https://github.com/omryr/radium.git",
+  "version": "https://github.com/omryr/radium/tarball/master",
   "description": "A set of tools to manage inline styles on React elements",
   "main": "lib/index.js",
   "repository": {
